@@ -1,0 +1,5 @@
+Dev Log:
+- Created Task.java with title, description, isDone
+- Tested with console output in Main.java
+- GitHub repo configured and connected
+- Next: Add README.md and commit 4 stages
